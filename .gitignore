@@ -1,0 +1,10 @@
+
+/Makefile
+/blib/*
+/pm_to_blib
+MANIFEST.bak
+Makefile.old
+
+*.tar.gz
+*.patch
+
