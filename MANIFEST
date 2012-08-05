@@ -12,6 +12,7 @@ inc/Module/Install/WriteAll.pm
 Makefile.PL
 MANIFEST			This list of files
 META.yml
+README
 t/Acme-CPANAuthors-Czech/00-use.t
 t/Acme-CPANAuthors-Czech/01-version.t
 t/Acme-CPANAuthors-Czech/02-pod_coverage.t
