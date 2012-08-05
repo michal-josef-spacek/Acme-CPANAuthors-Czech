@@ -21,6 +21,7 @@ meta-spec:
 name: Acme-CPANAuthors-Czech
 no_index:
   directory:
+    - examples
     - inc
     - t
 resources:
