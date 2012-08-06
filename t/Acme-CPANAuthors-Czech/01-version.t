@@ -7,4 +7,4 @@ use Acme::CPANAuthors::Czech;
 use Test::More 'tests' => 1;
 
 # Test.
-is($Acme::CPANAuthors::Czech::VERSION, 0.02, 'Version.');
+is($Acme::CPANAuthors::Czech::VERSION, 0.03, 'Version.');
