@@ -75,7 +75,7 @@ See documentation for L<Acme::CPANAuthors> for more details.
  print "Count of Czech CPAN authors: $count\n";
 
  # Output:
- # Count of Czech CPAN authors: 17
+ # Count of Czech CPAN authors: 18
 
 =head1 EXAMPLE2
 
