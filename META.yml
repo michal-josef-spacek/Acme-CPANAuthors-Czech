@@ -25,7 +25,7 @@ no_index:
     - inc
     - t
 requires:
-  Acme::CPANAuthors::Register: 0
+  Acme::CPANAuthors: 0
 resources:
   bugtracker: https://rt.cpan.org/Public/Dist/Display.html?Name=Acme-CPANAuthors-Czech
   homepage: https://github.com/tupinek/Acme-CPANAuthors-Czech
