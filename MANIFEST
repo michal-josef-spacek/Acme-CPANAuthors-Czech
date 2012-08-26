@@ -18,3 +18,7 @@ t/Acme-CPANAuthors-Czech/00-use.t
 t/Acme-CPANAuthors-Czech/01-version.t
 t/Acme-CPANAuthors-Czech/02-pod_coverage.t
 t/Acme-CPANAuthors-Czech/03-pod.t
+t/Acme-CPANAuthors-Czech/04-new.t
+t/Acme-CPANAuthors-Czech/05-authors.t
+t/Acme-CPANAuthors-Czech/06-count.t
+t/Acme-CPANAuthors-Czech/07-id.t
