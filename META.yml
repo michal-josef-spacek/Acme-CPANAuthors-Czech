@@ -7,6 +7,7 @@ build_requires:
   ExtUtils::MakeMaker: 6.36
   File::Object: 0.05
   Test::More: 0
+  Test::NoWarnings: 0
   Test::Pod: 0
   Test::Pod::Coverage: 0
 configure_requires:
