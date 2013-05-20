@@ -1,5 +1,5 @@
 ---
-abstract: 'We are Czech CPAN authors'
+abstract: 'We are Czech CPAN authors.'
 author:
   - 'Michal Špaček <skim@cpan.org>'
 build_requires:

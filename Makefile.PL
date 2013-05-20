@@ -6,7 +6,7 @@ use warnings;
 use inc::Module::Install;
 
 # Definition.
-abstract 'We are Czech CPAN authors';
+abstract 'We are Czech CPAN authors.';
 author 'Michal Špaček <skim@cpan.org>';
 license 'bsd';
 name 'Acme-CPANAuthors-Czech';
