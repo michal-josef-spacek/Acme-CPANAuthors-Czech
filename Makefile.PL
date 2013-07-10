@@ -11,6 +11,7 @@ author 'Michal Špaček <skim@cpan.org>';
 license 'bsd';
 name 'Acme-CPANAuthors-Czech';
 requires 'Acme::CPANAuthors' => 0;
+requires 'perl' => '5.10.0';
 resources 'bugtracker' => 'https://rt.cpan.org/Public/Dist/Display.html'.
 	'?Name=Acme-CPANAuthors-Czech';
 resources 'homepage' => 'https://github.com/tupinek/Acme-CPANAuthors-Czech';
