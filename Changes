@@ -1,5 +1,6 @@
 0.06 (July 10, 2013)
 - Add LICENSE.
+- Add SIGNATURE.
 - Add dependency for Perl (based on Acme::CPANAuthors dependency).
 
 0.05 (June 2, 2013)
