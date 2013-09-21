@@ -1,22 +1,23 @@
 0.07
+ - Rewrite Changes file to CPAN::Changes::SPEC format.
 
-0.06 (July 10, 2013)
-- Add LICENSE.
-- Add SIGNATURE.
-- Add dependency for Perl (based on Acme::CPANAuthors dependency).
+0.06 2013-07-10
+ - Add LICENSE.
+ - Add SIGNATURE.
+ - Add dependency for Perl (based on Acme::CPANAuthors dependency).
 
-0.05 (June 2, 2013)
-- Add Test::NoWarnings to tests.
-- Add KLE CPAN account.
+0.05 2013-06-02
+ - Add Test::NoWarnings to tests.
+ - Add KLE CPAN account.
 
-0.04 (August 26, 2012)
-- Add PEK CPAN account.
+0.04 2012-08-26
+ - Add PEK CPAN account.
 
-0.03 (August 07, 2012)
-- Add JSPICAK CPAN account.
+0.03 2012-08-07
+ - Add JSPICAK CPAN account.
 
-0.02 (August 06, 2012)
-- Add missing prereq. Perl module to Makefile.PL.
+0.02 2012-08-06
+ - Add missing prereq. Perl module to Makefile.PL.
 
-0.01 (August 05, 2012)
-- First version.
+0.01 2012-08-05
+ - First version.
