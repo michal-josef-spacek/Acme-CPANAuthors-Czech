@@ -1,3 +1,5 @@
+0.08
+
 0.07 2013-09-21
  - Fix README.
  - Rewrite Changes file to CPAN::Changes::SPEC format.
