@@ -1,4 +1,5 @@
 0.08
+ - Add PASKY CPAN account.
  - Rewrite EXAMPLE2 in doc to use Data::Printer.
 
 0.07 2013-09-21

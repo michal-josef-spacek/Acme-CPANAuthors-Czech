@@ -31,11 +31,12 @@ p @ids;
 #     [9]  "MILSO",
 #     [10] "MJFO",
 #     [11] "PAJAS",
-#     [12] "PEK",
-#     [13] "RUS",
-#     [14] "RVASICEK",
-#     [15] "SKIM",
-#     [16] "TKR",
-#     [17] "TRIPIE",
-#     [18] "ZOUL"
+#     [12] "PASKY",
+#     [13] "PEK",
+#     [14] "RUS",
+#     [15] "RVASICEK",
+#     [16] "SKIM",
+#     [17] "TKR",
+#     [18] "TRIPIE",
+#     [19] "ZOUL"
 # ]
