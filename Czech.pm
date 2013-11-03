@@ -6,7 +6,7 @@ use utf8;
 use warnings;
 
 # Version.
-our $VERSION = 0.09;
+our $VERSION = 0.10;
 
 # Modules.
 use Acme::CPANAuthors::Register(
@@ -142,6 +142,6 @@ BSD license.
 
 =head1 VERSION
 
-0.09
+0.10
 
 =cut
