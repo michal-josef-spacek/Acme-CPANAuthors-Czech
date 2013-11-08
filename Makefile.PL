@@ -10,6 +10,7 @@ abstract 'We are Czech CPAN authors.';
 author 'Michal Špaček <skim@cpan.org>';
 license 'bsd';
 name 'Acme-CPANAuthors-Czech';
+readme_from 'Czech.pm';
 requires 'Acme::CPANAuthors' => 0;
 requires 'perl' => '5.10.0';
 resources 'bugtracker' => 'https://rt.cpan.org/Public/Dist/Display.html'.

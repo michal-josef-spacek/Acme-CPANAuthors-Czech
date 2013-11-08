@@ -1,4 +1,5 @@
 0.10
+ - Add 'readme_from' directive to Makefile.PL.
 
 0.09 2013-11-3
  - Update README file.
