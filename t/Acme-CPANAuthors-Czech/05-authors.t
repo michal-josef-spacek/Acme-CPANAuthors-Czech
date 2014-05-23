@@ -11,6 +11,7 @@ use Test::NoWarnings;
 # Test.
 my %ret = Acme::CPANAuthors::Czech->authors;
 my %right_ret = (
+	'CHOROBA' => 'E. Choroba',
 	'DANPEDER' => 'Daniel Peder',
 	'HIHIK' => 'Jiří Václavík',
 	'HPA' => 'Petr Vraník',
