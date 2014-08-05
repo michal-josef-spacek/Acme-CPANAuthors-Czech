@@ -1,4 +1,5 @@
 0.11
+ - Update Module::Install to 1.10 version.
 
 0.10 2014-05-23T08:00:50+02:00
  - Add CHOROBA CPAN account.
