@@ -3,6 +3,7 @@
  - Add SMRZ CPAN account.
  - Add STRAKA CPAN account.
  - Add ZEMAN CPAN account.
+ - Fix RUR CPAN account.
  - Update Module::Install to 1.10 version.
 
 0.10 2014-05-23T08:00:50+02:00

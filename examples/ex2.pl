@@ -35,7 +35,7 @@ p @ids;
 #     [13] "PASKY",
 #     [14] "PEK",
 #     [15] "POPEL",
-#     [16] "RUS",
+#     [16] "RUR",
 #     [17] "RVASICEK",
 #     [18] "SKIM",
 #     [19] "SMRZ",
