@@ -38,9 +38,10 @@ p @ids;
 #     [16] "RUS",
 #     [17] "RVASICEK",
 #     [18] "SKIM",
-#     [19] "STRAKA",
-#     [20] "TKR",
-#     [21] "TRIPIE",
-#     [22] "ZEMAN",
-#     [23] "ZOUL"
+#     [19] "SMRZ",
+#     [20] "STRAKA",
+#     [21] "TKR",
+#     [22] "TRIPIE",
+#     [23] "ZEMAN",
+#     [24] "ZOUL"
 # ]

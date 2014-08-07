@@ -1,5 +1,6 @@
 0.11
  - Add POPEL CPAN account.
+ - Add SMRZ CPAN account.
  - Add STRAKA CPAN account.
  - Add ZEMAN CPAN account.
  - Update Module::Install to 1.10 version.
