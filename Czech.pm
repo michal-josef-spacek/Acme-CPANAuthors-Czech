@@ -30,6 +30,7 @@ use Acme::CPANAuthors::Register(
 	'SKIM' => 'Michal Špaček',
 	'TKR' => 'Tomáš Kraut',
 	'TRIPIE' => 'Tomáš Stýblo',
+	'ZEMAN' => 'Dan Zeman',
 	'ZOUL' => 'Tomáš Znamenáček',
 );
 
@@ -121,7 +122,8 @@ See documentation for L<Acme::CPANAuthors> for more details.
  #     [17] "SKIM",
  #     [18] "TKR",
  #     [19] "TRIPIE",
- #     [20] "ZOUL"
+ #     [20] "ZEMAN",
+ #     [21] "ZOUL"
  # ]
 
 =head1 DEPENDENCIES
