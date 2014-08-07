@@ -26,11 +26,14 @@ my %right_ret = (
 	'PAJAS' => 'Petr Pajas',
 	'PASKY' => 'Petr Baudiš',
 	'PEK' => 'Petr Kletečka',
+	'POPEL' => 'Martin Popel',
 	'RUS' => 'Rudolf Rosa',
 	'RVASICEK' => 'Roman Vašíček',
 	'SKIM' => 'Michal Špaček',
+	'STRAKA' => 'Milan Straka',
 	'TKR' => 'Tomáš Kraut',
 	'TRIPIE' => 'Tomáš Stýblo',
+	'ZEMAN' => 'Dan Zeman',
 	'ZOUL' => 'Tomáš Znamenáček',
 );
 is_deeply(

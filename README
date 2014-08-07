@@ -31,7 +31,7 @@ EXAMPLE1
      print "Count of Czech CPAN authors: $count\n";
 
      # Output:
-     # Count of Czech CPAN authors: 20
+     # Count of Czech CPAN authors: 24
 
 EXAMPLE2
      # Pragmas.
@@ -68,14 +68,15 @@ EXAMPLE2
      #     [12] "PAJAS",
      #     [13] "PASKY",
      #     [14] "PEK",
-     #     [15] "RUS",
-     #     [16] "RVASICEK",
-     #     [17] "SKIM",
-     #     [18] "STRAKA",
-     #     [19] "TKR",
-     #     [20] "TRIPIE",
-     #     [21] "ZEMAN",
-     #     [22] "ZOUL"
+     #     [15] "POPEL",
+     #     [16] "RUS",
+     #     [17] "RVASICEK",
+     #     [18] "SKIM",
+     #     [19] "STRAKA",
+     #     [20] "TKR",
+     #     [21] "TRIPIE",
+     #     [22] "ZEMAN",
+     #     [23] "ZOUL"
      # ]
 
 DEPENDENCIES
