@@ -37,8 +37,9 @@ p @ids;
 #     [15] "RUS",
 #     [16] "RVASICEK",
 #     [17] "SKIM",
-#     [18] "TKR",
-#     [19] "TRIPIE",
-#     [20] "ZEMAN",
-#     [21] "ZOUL"
+#     [18] "STRAKA",
+#     [19] "TKR",
+#     [20] "TRIPIE",
+#     [21] "ZEMAN",
+#     [22] "ZOUL"
 # ]
