@@ -24,7 +24,7 @@ test_requires 'Test::More' => 0;
 test_requires 'Test::Pod' => 0;
 test_requires 'Test::Pod::Coverage' => 0;
 tests_recursive;
-version '0.11';
+version '0.12';
 
 # Run.
 WriteAll();
