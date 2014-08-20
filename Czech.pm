@@ -11,6 +11,7 @@ our $VERSION = 0.12;
 # Modules.
 use Acme::CPANAuthors::Register(
 	'CHOROBA' => 'E. Choroba',
+	'DANIELR' => 'Roman Daniel',
 	'DANPEDER' => 'Daniel Peder',
 	'HIHIK' => 'Jiří Václavík',
 	'HPA' => 'Petr Vraník',
@@ -82,7 +83,7 @@ See documentation for L<Acme::CPANAuthors> for more details.
  print "Count of Czech CPAN authors: $count\n";
 
  # Output:
- # Count of Czech CPAN authors: 25
+ # Count of Czech CPAN authors: 26
 
 =head1 EXAMPLE2
 
@@ -106,30 +107,31 @@ See documentation for L<Acme::CPANAuthors> for more details.
  # Output:
  # [
  #     [0]  "CHOROBA",
- #     [1]  "DANPEDER",
- #     [2]  "HIHIK",
- #     [3]  "HPA",
- #     [4]  "JANPAZ",
- #     [5]  "JANPOM",
- #     [6]  "JENDA",
- #     [7]  "JSPICAK",
- #     [8]  "KLE",
- #     [9]  "MAJLIS",
- #     [10] "MILSO",
- #     [11] "MJFO",
- #     [12] "PAJAS",
- #     [13] "PASKY",
- #     [14] "PEK",
- #     [15] "POPEL",
- #     [16] "RUR",
- #     [17] "RVASICEK",
- #     [18] "SKIM",
- #     [19] "SMRZ",
- #     [20] "STRAKA",
- #     [21] "TKR",
- #     [22] "TRIPIE",
- #     [23] "ZEMAN",
- #     [24] "ZOUL"
+ #     [1]  "DANIELR",
+ #     [2]  "DANPEDER",
+ #     [3]  "HIHIK",
+ #     [4]  "HPA",
+ #     [5]  "JANPAZ",
+ #     [6]  "JANPOM",
+ #     [7]  "JENDA",
+ #     [8]  "JSPICAK",
+ #     [9]  "KLE",
+ #     [10]  "MAJLIS",
+ #     [11] "MILSO",
+ #     [12] "MJFO",
+ #     [13] "PAJAS",
+ #     [14] "PASKY",
+ #     [15] "PEK",
+ #     [16] "POPEL",
+ #     [17] "RUR",
+ #     [18] "RVASICEK",
+ #     [19] "SKIM",
+ #     [20] "SMRZ",
+ #     [21] "STRAKA",
+ #     [22] "TKR",
+ #     [23] "TRIPIE",
+ #     [24] "ZEMAN",
+ #     [25] "ZOUL"
  # ]
 
 =head1 DEPENDENCIES
