@@ -20,8 +20,8 @@ p @ids;
 # Output:
 # [
 #     [0]  "CHOROBA",
-#     [1]  "DANPEDER",
-#     [2]  "DANIELR",
+#     [1]  "DANIELR",
+#     [2]  "DANPEDER",
 #     [3]  "HIHIK",
 #     [4]  "HPA",
 #     [5]  "JANPAZ",
