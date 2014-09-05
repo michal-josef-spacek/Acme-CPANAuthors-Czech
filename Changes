@@ -1,5 +1,6 @@
 0.13
  - Update examples/ directory.
+ - Update Module::Install to 1.12 version.
 
 0.12 2014-08-21T07:11:34+02:00
  - Add DANIELR CPAN account.
