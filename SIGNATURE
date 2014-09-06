@@ -14,40 +14,40 @@ not run its Makefile.PL or Build.PL.
 -----BEGIN PGP SIGNED MESSAGE-----
 Hash: SHA1
 
-SHA1 dea2a439394dce97a023c985afd6e92f4da9ab16 Changes
-SHA1 9f0c10a8c83d83f111cc4a494372c12c8891004a Czech.pm
+SHA1 1f74b808cec307d754a800f607006addf5262a41 Changes
+SHA1 d53a408ea5f5219bc5e3fbe3bc7cc60af7b3993d Czech.pm
 SHA1 e274f86dfcc92b6d3243fe3e117da1e4cdfab6c3 LICENSE
 SHA1 7e7a2b142cd2de146910f12647dbb5aead696515 MANIFEST
-SHA1 adad4f3720f8a58ec856fb016bafb687939f4e54 META.yml
-SHA1 c65817183f5ab5ac7227d7b03dbadc92b4d30194 Makefile.PL
-SHA1 065db81e70f3aee46e4f2629c104f2e2ff2a1969 README
-SHA1 7bdbadfd95e762ff568941bbc0951d835e12877f examples/ex1.pl
-SHA1 cbf376265e707f800fc9249608136ab1179ce8c7 examples/ex2.pl
-SHA1 4f7982f7e554df23debce735ab343d88d7355140 inc/Module/Install.pm
-SHA1 c68c85ca62ae30d83f633975cd9af2a0789f59e0 inc/Module/Install/Base.pm
-SHA1 4797fd314e2653a427e725104704b0320993ba8c inc/Module/Install/Can.pm
-SHA1 b771d93af2bfc41273f48fa36082bf1bd6f21dbe inc/Module/Install/Fetch.pm
-SHA1 f4f3258a505a432a58cbcdc1fd030ef5e8e90985 inc/Module/Install/Makefile.pm
-SHA1 100a0dd8572f0b40373350fdd6c0a6f035d9dc39 inc/Module/Install/Metadata.pm
+SHA1 13563b9361ebc50299a5f337b24ab10f3d7899a8 META.yml
+SHA1 4b3aa6b549ca283beda5c004220e0643f39e75d0 Makefile.PL
+SHA1 3a4c558161262cc74fc582a433f0d9f58ff524d5 README
+SHA1 552aa7748523a2cce55f76c860c9fefcabfe1a69 examples/ex1.pl
+SHA1 b9484f0900d3b91fb2c223bc6a83e54ed708880c examples/ex2.pl
+SHA1 9b5001bfa9cf8607b3b3935284d9253e0391c9f1 inc/Module/Install.pm
+SHA1 cab0e564f9bdf658535f683aa197157e06d0dcea inc/Module/Install/Base.pm
+SHA1 a1559b5b3b40f68efbbd256f4fef85970891b3ae inc/Module/Install/Can.pm
+SHA1 f15c1ba85f6d52e70c48c64bf0752c90a4ad66f9 inc/Module/Install/Fetch.pm
+SHA1 eb48df8bafd07c6a862126d9b274df42b4395742 inc/Module/Install/Makefile.pm
+SHA1 95c73873c6c3cb7024614c225c53863e1e90c134 inc/Module/Install/Metadata.pm
 SHA1 79f5b4199f622e8b05aac266b0c39f6a85bb303f inc/Module/Install/ReadmeFromPod.pm
-SHA1 4490fed943f4e556db9fd054b7ec8765ca417f7d inc/Module/Install/Win32.pm
-SHA1 8464ddf690b9f7036a0974ff172ec0ced2f6a329 inc/Module/Install/WriteAll.pm
+SHA1 f8b2ae3386f6ba26c33408968a953d450842eade inc/Module/Install/Win32.pm
+SHA1 f302bc703d76299cff243e5b44cecd61aac27b76 inc/Module/Install/WriteAll.pm
 SHA1 e76df2c3b1e7b960b4e4fa36db6b3c1a8b063452 t/Acme-CPANAuthors-Czech/00-use.t
-SHA1 4df32b727825b229db49efd9f75bb73e02582c61 t/Acme-CPANAuthors-Czech/01-version.t
+SHA1 80dec10d91e690aef886f85e44dd9740583b8fb2 t/Acme-CPANAuthors-Czech/01-version.t
 SHA1 3837acbdd971034c6c8d1ad7ac484352f4e549ae t/Acme-CPANAuthors-Czech/02-pod_coverage.t
 SHA1 9324a1fc3f6760cadf63552781c90e434e8fb6c5 t/Acme-CPANAuthors-Czech/03-pod.t
 SHA1 ff167a4e17b99e92e5fda00970e2a1006a964cdc t/Acme-CPANAuthors-Czech/04-new.t
-SHA1 7beafbf663cd94260683c1fe0e493f5bc7b56420 t/Acme-CPANAuthors-Czech/05-authors.t
-SHA1 6a6ba57946ed2a4ca67741693cd020167efaf4d5 t/Acme-CPANAuthors-Czech/06-count.t
-SHA1 be1e0609d0d5635d3237500340143e2e0c0474ed t/Acme-CPANAuthors-Czech/07-id.t
+SHA1 3c31a916a8be81394085886bd1a6e78a06e1baa9 t/Acme-CPANAuthors-Czech/05-authors.t
+SHA1 dba63eeeef8b82530969e2c1073d23c55478de74 t/Acme-CPANAuthors-Czech/06-count.t
+SHA1 e8af8c4f6915c94f68b9b942c6dbcb003ef62854 t/Acme-CPANAuthors-Czech/07-id.t
 -----BEGIN PGP SIGNATURE-----
 Version: GnuPG v1.4.12 (GNU/Linux)
 
-iQEcBAEBAgAGBQJT9X+MAAoJEAwa+cf4dLBaXGgH/1TmZmkeFZYygXxna62rpCak
-VXmZGO3ZWr/aHcnIU7JEIVuyCKnxMFaa+qI2+wGAIjdSGnbeThJUwqhklmgJb9Bv
-ct7Tqe5Y2CRXi1EF4ToSQS1k64RrFY7Aw2weC5ePk564BOAWVvyLf7Xwc+KDDKJJ
-wRV5asSZkeQMf+QQ6eitlxiOicAQnW8XQLd6YI5QyqhzsgtHsX/gazk608fhDZ4e
-YuH7c4MUEwlB6RTvF4BUw/ni6Sxti2aljqY1XlKtxqlQ4sSDTn7pEM9aYLQRhCgn
-m44jbXNvYbdANXqn0bElAv0F7Ox+C9TvaUYtIU/5AUvnNaVDEc0F42qQvgRPzc4=
-=7H8J
+iQEcBAEBAgAGBQJUCnAOAAoJEAwa+cf4dLBaCRUIAIaw+zYZ40UnZdtldgsQqiIf
+MFT/m+APQbUsNrpLntCIEX1U9F0jXnVUJmPmrasCn1QFLd1W4g4j00fADziznZmA
+QcaB28l0p2X1KyLqAVfqCc6GulIXvf9bP10syV589Dm714dy9/ElBqphAHzMX8F+
+kZllw0rmenfvUomnh2oFG7W11m+jxU6p+QVp/eyalOag8fpRJE/AFyGu6ZLGRsuE
+/9qvRGtxY2FdN6h8vvEbKowV6/6Weuvp9Rln99g3EjakLAobLqbS/JRBxiAU1D9J
+6B8spzVWXPZcHoGAAPb64OTxyrlsfUNnFa9pfo76hsJqBYOVdP/yYjf+fy0GXvk=
+=/e2A
 -----END PGP SIGNATURE-----
