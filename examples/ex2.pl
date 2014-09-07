@@ -39,11 +39,12 @@ p @ids;
 #     [17] "PSME",
 #     [18] "RUR",
 #     [19] "RVASICEK",
-#     [20] "SKIM",
-#     [21] "SMRZ",
-#     [22] "STRAKA",
-#     [23] "TKR",
-#     [24] "TRIPIE",
-#     [25] "ZEMAN",
-#     [26] "ZOUL"
+#     [20] "SEIDLJAN",
+#     [21] "SKIM",
+#     [22] "SMRZ",
+#     [23] "STRAKA",
+#     [24] "TKR",
+#     [25] "TRIPIE",
+#     [26] "ZEMAN",
+#     [27] "ZOUL"
 # ]
