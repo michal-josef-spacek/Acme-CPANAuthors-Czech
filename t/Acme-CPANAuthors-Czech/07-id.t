@@ -11,8 +11,8 @@ use Test::NoWarnings;
 my $obj = Acme::CPANAuthors->new('Czech');
 my @ret = $obj->id;
 my @right_ret = ('CHOROBA', 'DANIELR', 'DANPEDER', 'HIHIK', 'HPA', 'JANPAZ',
-	'JANPOM', 'JENDA', 'JSPICAK', 'KLE', 'KOLCON', 'MAJLIS', 'MILSO',
-	'MJFO', 'PAJAS', 'PASKY', 'PEK', 'POPEL', 'PSME', 'RUR', 'RVASICEK',
-	'SEIDLJAN', 'SKIM', 'SMRZ', 'STRAKA', 'TKR', 'TRIPIE', 'ZEMAN',
-	'ZOUL');
+	'JANPOM', 'JENDA', 'JIRA', 'JSPICAK', 'KLE', 'KOLCON', 'MAJLIS',
+	'MILSO', 'MJFO', 'PAJAS', 'PASKY', 'PEK', 'POPEL', 'PSME', 'RUR',
+	'RVASICEK', 'SEIDLJAN', 'SKIM', 'SMRZ', 'STRAKA', 'TKR', 'TRIPIE',
+	'ZEMAN', 'ZOUL');
 is_deeply(\@ret, \@right_ret, 'CPAN authors ids.');

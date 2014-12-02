@@ -1,4 +1,5 @@
 0.15
+ - Add JIRA CPAN account.
  - Update README file.
  - Update Module::Install to 1.14 version.
 
