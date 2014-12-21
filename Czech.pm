@@ -58,10 +58,10 @@ Acme::CPANAuthors::Czech - We are Czech CPAN authors.
 
  use Acme::CPANAuthors;
  my $authors = Acme::CPANAuthors->new('Czech');
- my $number = $authors->count;
- my @ids = $authors->id;
- my @distors = $authors->distributions('JANPAZ');
  my $url = $authors->avatar_url('TRIPIE');
+ my $number = $authors->count;
+ my @distors = $authors->distributions('JANPAZ');
+ my @ids = $authors->id;
  my $kwalitee = $authors->kwalitee('RUS');
 
 =head1 DESCRIPTION
