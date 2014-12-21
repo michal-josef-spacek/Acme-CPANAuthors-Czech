@@ -63,6 +63,7 @@ Acme::CPANAuthors::Czech - We are Czech CPAN authors.
  my @distors = $authors->distributions('JANPAZ');
  my @ids = $authors->id;
  my $kwalitee = $authors->kwalitee('RUS');
+ my $name = $authors->name('CHOROBA');
 
 =head1 DESCRIPTION
  

@@ -9,6 +9,7 @@ SYNOPSIS
      my @distors = $authors->distributions('JANPAZ');
      my @ids = $authors->id;
      my $kwalitee = $authors->kwalitee('RUS');
+     my $name = $authors->name('CHOROBA');
 
 DESCRIPTION
     See documentation for Acme::CPANAuthors for more details.
