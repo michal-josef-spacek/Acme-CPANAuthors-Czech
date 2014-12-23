@@ -1,4 +1,4 @@
-0.15
+0.15 2014-12-23T18:18:27+01:00
  - Add JIRA CPAN account.
  - Add name() method to SYNOPSIS section in doc.
  - Sort modules in SYNOPSIS section in doc.
