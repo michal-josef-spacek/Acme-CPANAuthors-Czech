@@ -14,5 +14,5 @@ my @right_ret = ('CHOROBA', 'DANIELR', 'DANPEDER', 'HIHIK', 'HPA', 'JANPAZ',
 	'JANPOM', 'JENDA', 'JIRA', 'JSPICAK', 'KLE', 'KOLCON', 'MAJLIS',
 	'MILSO', 'MJFO', 'PAJAS', 'PASKY', 'PEK', 'POPEL', 'PSME', 'RUR',
 	'RVASICEK', 'SEIDLJAN', 'SKIM', 'SMRZ', 'STRAKA', 'TKR', 'TRIPIE',
-	'ZEMAN', 'ZOUL');
+	'VASEKD', 'ZEMAN', 'ZOUL');
 is_deeply(\@ret, \@right_ret, 'CPAN authors ids.');

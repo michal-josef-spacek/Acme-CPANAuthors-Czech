@@ -47,6 +47,7 @@ p @ids;
 #     [25] "STRAKA",
 #     [26] "TKR",
 #     [27] "TRIPIE",
-#     [28] "ZEMAN",
-#     [29] "ZOUL"
+#     [28] "VASEKD",
+#     [29] "ZEMAN",
+#     [30] "ZOUL"
 # ]
