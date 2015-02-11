@@ -23,6 +23,7 @@ use Acme::CPANAuthors::Register(
 	'KLE' => 'Petr Kletečka',
 	'KOLCON' => 'Luboš Kolouch',
 	'MAJLIS' => 'Martin Majlis',
+	'MICHALS' => 'Michal Sedlák',
 	'MILSO' => 'Milan Šorm',
 	'MJFO' => 'Michal Jurosz',
 	'PAJAS' => 'Petr Pajas',
@@ -90,7 +91,7 @@ See documentation for L<Acme::CPANAuthors> for more details.
  print "Count of Czech CPAN authors: $count\n";
 
  # Output:
- # Count of Czech CPAN authors: 32
+ # Count of Czech CPAN authors: 33
 
 =head1 EXAMPLE2
 
@@ -123,28 +124,29 @@ See documentation for L<Acme::CPANAuthors> for more details.
  #     [7]  "JENDA",
  #     [8]  "JIRA",
  #     [9]  "JSPICAK",
- #     [10]  "KLE",
+ #     [10] "KLE",
  #     [11] "KOLCON",
  #     [12] "MAJLIS",
- #     [13] "MILSO",
- #     [14] "MJFO",
- #     [15] "PAJAS",
- #     [16] "PASKY",
- #     [17] "PEK",
- #     [18] "POPEL",
- #     [19] "PSME",
- #     [20] "RUR",
- #     [21] "RVASICEK",
- #     [22] "SEIDLJAN",
- #     [23] "SKIM",
- #     [24] "SMRZ",
- #     [25] "STRAKA",
- #     [26] "TKR",
- #     [27] "TRIPIE",
- #     [28] "VASEKD",
- #     [29] "YENYA",
- #     [30] "ZEMAN",
- #     [31] "ZOUL"
+ #     [13] "MICHALS",
+ #     [14] "MILSO",
+ #     [15] "MJFO",
+ #     [16] "PAJAS",
+ #     [17] "PASKY",
+ #     [18] "PEK",
+ #     [19] "POPEL",
+ #     [20] "PSME",
+ #     [21] "RUR",
+ #     [22] "RVASICEK",
+ #     [23] "SEIDLJAN",
+ #     [24] "SKIM",
+ #     [25] "SMRZ",
+ #     [26] "STRAKA",
+ #     [27] "TKR",
+ #     [28] "TRIPIE",
+ #     [29] "VASEKD",
+ #     [30] "YENYA",
+ #     [31] "ZEMAN",
+ #     [32] "ZOUL"
  # ]
 
 =head1 DEPENDENCIES

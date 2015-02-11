@@ -12,7 +12,7 @@ my $obj = Acme::CPANAuthors->new('Czech');
 my @ret = $obj->id;
 my @right_ret = ('CHOROBA', 'DANIELR', 'DANPEDER', 'HIHIK', 'HPA', 'JANPAZ',
 	'JANPOM', 'JENDA', 'JIRA', 'JSPICAK', 'KLE', 'KOLCON', 'MAJLIS',
-	'MILSO', 'MJFO', 'PAJAS', 'PASKY', 'PEK', 'POPEL', 'PSME', 'RUR',
-	'RVASICEK', 'SEIDLJAN', 'SKIM', 'SMRZ', 'STRAKA', 'TKR', 'TRIPIE',
-	'VASEKD', 'YENYA', 'ZEMAN', 'ZOUL');
+	'MICHALS', 'MILSO', 'MJFO', 'PAJAS', 'PASKY', 'PEK', 'POPEL', 'PSME',
+	'RUR', 'RVASICEK', 'SEIDLJAN', 'SKIM', 'SMRZ', 'STRAKA', 'TKR',
+	'TRIPIE', 'VASEKD', 'YENYA', 'ZEMAN', 'ZOUL');
 is_deeply(\@ret, \@right_ret, 'CPAN authors ids.');

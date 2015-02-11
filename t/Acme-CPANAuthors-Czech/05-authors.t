@@ -24,6 +24,7 @@ my %right_ret = (
 	'KLE' => 'Petr Kletečka',
 	'KOLCON' => 'Luboš Kolouch',
 	'MAJLIS' => 'Martin Majlis',
+	'MICHALS' => 'Michal Sedlák',
 	'MILSO' => 'Milan Šorm',
 	'MJFO' => 'Michal Jurosz',
 	'PAJAS' => 'Petr Pajas',
