@@ -41,6 +41,7 @@ use Acme::CPANAuthors::Register(
 	'TRIPIE' => 'Tomáš Stýblo',
 	'VASEKD' => 'Václav Dovrtěl',
 	'YENYA' => 'Jan "Yenya" Kasprzak',
+	'ZABA' => 'Zdeněk Žabokrtský',
 	'ZEMAN' => 'Dan Zeman',
 	'ZOUL' => 'Tomáš Znamenáček',
 );
@@ -91,7 +92,7 @@ See documentation for L<Acme::CPANAuthors> for more details.
  print "Count of Czech CPAN authors: $count\n";
 
  # Output:
- # Count of Czech CPAN authors: 33
+ # Count of Czech CPAN authors: 34
 
 =head1 EXAMPLE2
 
@@ -145,8 +146,9 @@ See documentation for L<Acme::CPANAuthors> for more details.
  #     [28] "TRIPIE",
  #     [29] "VASEKD",
  #     [30] "YENYA",
- #     [31] "ZEMAN",
- #     [32] "ZOUL"
+ #     [31] "ZABA",
+ #     [32] "ZEMAN",
+ #     [33] "ZOUL"
  # ]
 
 =head1 DEPENDENCIES

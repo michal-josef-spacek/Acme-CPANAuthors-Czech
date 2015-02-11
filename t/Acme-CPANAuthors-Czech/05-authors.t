@@ -42,6 +42,7 @@ my %right_ret = (
 	'TRIPIE' => 'Tomáš Stýblo',
 	'VASEKD' => 'Václav Dovrtěl',
 	'YENYA' => 'Jan "Yenya" Kasprzak',
+	'ZABA' => 'Zdeněk Žabokrtský',
 	'ZEMAN' => 'Dan Zeman',
 	'ZOUL' => 'Tomáš Znamenáček',
 );
