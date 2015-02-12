@@ -14,15 +14,15 @@ not run its Makefile.PL or Build.PL.
 -----BEGIN PGP SIGNED MESSAGE-----
 Hash: SHA1
 
-SHA1 03985d4cec6f3cf7b9c3e025db389f1fe86b7588 Changes
-SHA1 1ebc05dacc6e2d8a43891faabac144750851b167 Czech.pm
+SHA1 d101c150a0bed3fd04ca82b4c4a93c4a4ee31f64 Changes
+SHA1 854d7f4d2c49dc0389ac7575c89c69edc7af77b4 Czech.pm
 SHA1 1179f98d0de353aafbd6ac4d01401f030d8a1003 LICENSE
 SHA1 7e7a2b142cd2de146910f12647dbb5aead696515 MANIFEST
-SHA1 ada42675ad10b4fa92d4dfb0f4a4361679e7f4f8 META.yml
-SHA1 690b108702e26b0c808dc6c41546af36b54fd889 Makefile.PL
-SHA1 430de6274c5ea5cfda0e9f4f38836068639585d1 README
-SHA1 e7ba3c4117d0bcf53510f7e109344bfc36fa4201 examples/ex1.pl
-SHA1 f3c7470268de39d1170a9b153450a4eff02dd5d7 examples/ex2.pl
+SHA1 3564ffaa6f3542b3297eed897aa3b5235f7f97ad META.yml
+SHA1 dd0bd692765241869a52bdaf657eb5db8ce3e067 Makefile.PL
+SHA1 16b0cc8a52ff8191694f4f661e3cbd0ec4ee8637 README
+SHA1 d67f19c883286be6c0a7d963aa2a49d7cdf77e86 examples/ex1.pl
+SHA1 27a8ad35809c8acbae084581fda39de556965422 examples/ex2.pl
 SHA1 d2664c57b65686abbfbbe1e71229761625be4922 inc/Module/Install.pm
 SHA1 da41a8d9904f7b409b49a5f6c338d3eb305a2b4b inc/Module/Install/Base.pm
 SHA1 0db0afe19cd298abba248fa089e5525bd5ab3ab6 inc/Module/Install/Can.pm
@@ -33,21 +33,21 @@ SHA1 79f5b4199f622e8b05aac266b0c39f6a85bb303f inc/Module/Install/ReadmeFromPod.p
 SHA1 65a1f09af1f4f9e47a98b6b45667c328b1b2f9c0 inc/Module/Install/Win32.pm
 SHA1 f191c49475b3f51775180cd4f7e41e3bdab7f85a inc/Module/Install/WriteAll.pm
 SHA1 e76df2c3b1e7b960b4e4fa36db6b3c1a8b063452 t/Acme-CPANAuthors-Czech/00-use.t
-SHA1 69402c0f00e29516975c027f5fee613933c3567e t/Acme-CPANAuthors-Czech/01-version.t
+SHA1 770b0dda201901d3baef68004abcfc3542953911 t/Acme-CPANAuthors-Czech/01-version.t
 SHA1 3837acbdd971034c6c8d1ad7ac484352f4e549ae t/Acme-CPANAuthors-Czech/02-pod_coverage.t
 SHA1 9324a1fc3f6760cadf63552781c90e434e8fb6c5 t/Acme-CPANAuthors-Czech/03-pod.t
 SHA1 ff167a4e17b99e92e5fda00970e2a1006a964cdc t/Acme-CPANAuthors-Czech/04-new.t
-SHA1 9f4cb4d52ee93c4625bf3414d8994e666cc6ef1c t/Acme-CPANAuthors-Czech/05-authors.t
-SHA1 b8d265a0d1fd74e3af02c49fde23af14f1e35564 t/Acme-CPANAuthors-Czech/06-count.t
-SHA1 426af12906e1ed0cdea91e418de4c49e9ab07eb9 t/Acme-CPANAuthors-Czech/07-id.t
+SHA1 6a48825da99eabf51358a87b0c2cf1345741b505 t/Acme-CPANAuthors-Czech/05-authors.t
+SHA1 f82f9136c1c8723b6bb5eb06f76c0c1922015029 t/Acme-CPANAuthors-Czech/06-count.t
+SHA1 64689e3e59d8bf6d7bb2fa77fba983ae17af1c26 t/Acme-CPANAuthors-Czech/07-id.t
 -----BEGIN PGP SIGNATURE-----
 Version: GnuPG v1.4.12 (GNU/Linux)
 
-iQEcBAEBAgAGBQJU2wECAAoJEJe+XXKaIuTlYTkIAI3uxK5AD91NR4oUSPvq4T7H
-cJZ8FFIW2q4Iaeso3d1Q0Gfa1OY2PidbXwTco/jcn6YOcJ5RawCQ+2NWeg+Sd9L/
-hMC0Gj9O55neA6AnSy+qJcLstRwRGdZqrEmIKc7ipjnDLVWLpLiU1sfWWNwHmq8k
-+V/V0Od2zrT2lGhUCBgn9WGFFvuqquaThHRK+sH9f7qrvs//yMlVUbRrhmYR9cIG
-F3MN0XtX7XxT0N7ue4NBOx6DGx1w280vZ9YWcKUY5ieBmZhP7cgbJZL1qRRFTiz8
-rTq8ndAqGbH3fyWL/fursb5yWfuxfItYpIKYnvEff1pYs3QKoSx/oXNzz38yGlI=
-=E85B
+iQEcBAEBAgAGBQJU3Oq7AAoJEJe+XXKaIuTlLYIH/AzLH/URBk4D628/waqsh+6K
+guxRbFVJfEuoYQBPApjdnwgmsQ2C1wAGxD4HfgXZllyz0dki15cza1MmKSL0RIqe
+nZDfRcwkwIhENbfM/PufbekWwJ9luKn3tf/Bw0q6j5o0zEH97XA0yi4NcSOSbNmu
+68oRWnmn5RuN2iCpA/infYVxZA9PyDmfgO2iuzfkF5OIuUKlt8duiLYcgfY6AzC2
+FFXWyPaMgKrm/BN5Zv5ZkobXIbBT72TW72RqwciJNNNqIe3M9mm7sEDKK7NV3P6a
+DJozvcfrpQ5Uq0U5O3uWYi+MZ8X0NxVx7+3Nx9xqXhwHAFqjJq5Jum7py3rzwLU=
+=kAeJ
 -----END PGP SIGNATURE-----
