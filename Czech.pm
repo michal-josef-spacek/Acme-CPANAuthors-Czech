@@ -6,7 +6,7 @@ use utf8;
 use warnings;
 
 # Version.
-our $VERSION = 0.19;
+our $VERSION = 0.20;
 
 # Modules.
 use Acme::CPANAuthors::Register(
@@ -174,6 +174,6 @@ L<http://skim.cz>
 
 =head1 VERSION
 
-0.19
+0.20
 
 =cut
