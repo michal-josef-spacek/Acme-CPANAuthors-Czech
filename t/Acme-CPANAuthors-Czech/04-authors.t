@@ -14,6 +14,7 @@ my %right_ret = (
 	'CHOROBA' => 'E. Choroba',
 	'DANIELR' => 'Roman Daniel',
 	'DANPEDER' => 'Daniel Peder',
+	'DOUGLISH' => 'Dalibor Hořínek',
 	'HIHIK' => 'Jiří Václavík',
 	'HPA' => 'Petr Vraník',
 	'JANPAZ' => 'Jan Pazdziora',
