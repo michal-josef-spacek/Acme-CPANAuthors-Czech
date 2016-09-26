@@ -10,7 +10,7 @@ our $VERSION = 0.21;
 
 # Modules.
 use Acme::CPANAuthors::Register(
-	'CHOROBA' => 'E. Choroba',
+	'CHOROBA' => 'Egon Choroba',
 	'DANIELR' => 'Roman Daniel',
 	'DANPEDER' => 'Daniel Peder',
 	'DOUGLISH' => 'Dalibor Hořínek',
