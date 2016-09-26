@@ -14,10 +14,10 @@ author_requires 'Test::Pod' => 0;
 author_requires 'Test::Pod::Coverage' => 0;
 license 'bsd';
 name 'Acme-CPANAuthors-Czech';
+perl_version 5.0100;
 readme_from 'Czech.pm';
 recursive_author_tests('xt');
 requires 'Acme::CPANAuthors' => 0;
-requires 'perl' => '5.10.0';
 resources 'bugtracker' => 'https://rt.cpan.org/Public/Dist/Display.html'.
 	'?Name=Acme-CPANAuthors-Czech';
 resources 'homepage' => 'https://github.com/tupinek/Acme-CPANAuthors-Czech';

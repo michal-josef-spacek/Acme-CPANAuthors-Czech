@@ -1,5 +1,6 @@
 0.21
  - Add name for CHOROBA :-)
+ - Fix minimal Perl version check.
  - Update copyright years.
 
 0.20 2015-12-21T12:44:11+01:00
