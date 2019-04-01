@@ -36,7 +36,7 @@ use Acme::CPANAuthors::Register(
 	'RUR' => 'Rudolf Rosa',
 	'RVASICEK' => 'Roman Vašíček',
 	'SEIDLJAN' => 'Jan Seidl',
-	'SKIM' => 'Michal Špaček',
+	'SKIM' => 'Michal Josef Špaček',
 	'SMRZ' => 'Otakar Smrž',
 	'STRAKA' => 'Milan Straka',
 	'TKR' => 'Tomáš Kraut',
@@ -167,13 +167,13 @@ L<https://github.com/tupinek/Acme-CPANAuthors-Czech>
 
 =head1 AUTHOR
 
-Michal Špaček L<mailto:skim@cpan.org>
+Michal Josef Špaček L<mailto:skim@cpan.org>
 
 L<http://skim.cz>
 
 =head1 LICENSE AND COPYRIGHT
 
- © 2011-2019 Michal Špaček
+ © 2011-2019 Michal Josef Špaček
  BSD 2-Clause License
 
 =head1 VERSION
