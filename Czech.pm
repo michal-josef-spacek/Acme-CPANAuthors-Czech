@@ -171,7 +171,7 @@ L<http://skim.cz>
 
 =head1 LICENSE AND COPYRIGHT
 
- © 2011-2016 Michal Špaček
+ © 2011-2019 Michal Špaček
  BSD 2-Clause License
 
 =head1 VERSION
