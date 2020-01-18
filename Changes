@@ -1,5 +1,6 @@
 0.23
  - Add HOLCAPEK CPAN account.
+ - Update .travis.yml to reality.
  - Update Module::Install to 1.19 version.
  - Update copyright years.
  - Update my name.
