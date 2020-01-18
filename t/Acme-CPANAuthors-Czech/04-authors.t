@@ -1,9 +1,7 @@
-# Pragmas.
 use strict;
 use utf8;
 use warnings;
 
-# Modules.
 use Acme::CPANAuthors::Czech;
 use Test::More 'tests' => 2;
 use Test::NoWarnings;

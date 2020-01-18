@@ -1,11 +1,9 @@
 package Acme::CPANAuthors::Czech;
 
-# Pragmas.
 use strict;
 use utf8;
 use warnings;
 
-# Version.
 our $VERSION = 0.23;
 
 # Modules.
@@ -78,11 +76,9 @@ See documentation for L<Acme::CPANAuthors> for more details.
 
 =head1 EXAMPLE1
 
- # Pragmas.
  use strict;
  use warnings;
 
- # Modules.
  use Acme::CPANAuthors;
 
  # Create object.
@@ -99,11 +95,9 @@ See documentation for L<Acme::CPANAuthors> for more details.
 
 =head1 EXAMPLE2
 
- # Pragmas.
  use strict;
  use warnings;
 
- # Modules.
  use Acme::CPANAuthors;
  use Data::Printer;
 

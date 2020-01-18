@@ -15,11 +15,9 @@ DESCRIPTION
     See documentation for Acme::CPANAuthors for more details.
 
 EXAMPLE1
-     # Pragmas.
      use strict;
      use warnings;
 
-     # Modules.
      use Acme::CPANAuthors;
 
      # Create object.
@@ -35,11 +33,9 @@ EXAMPLE1
      # Count of Czech CPAN authors: 37
 
 EXAMPLE2
-     # Pragmas.
      use strict;
      use warnings;
 
-     # Modules.
      use Acme::CPANAuthors;
      use Data::Printer;
 
