@@ -27,7 +27,7 @@ requires:
   perl: 5.01
 resources:
   bugtracker: https://rt.cpan.org/Public/Dist/Display.html?Name=Acme-CPANAuthors-Czech
-  homepage: https://github.com/tupinek/Acme-CPANAuthors-Czech
+  homepage: https://github.com/michal-josef-spacek/Acme-CPANAuthors-Czech
   license: http://opensource.org/licenses/bsd-license.php
-  repository: git://github.com/tupinek/Acme-CPANAuthors-Czech
+  repository: git://github.com/michal-josef-spacek/Acme-CPANAuthors-Czech
 version: '0.24'

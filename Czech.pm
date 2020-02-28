@@ -158,7 +158,7 @@ L<Acme::CPANAuthors>.
 
 =head1 REPOSITORY
 
-L<https://github.com/tupinek/Acme-CPANAuthors-Czech>
+L<https://github.com/michal-josef-spacek/Acme-CPANAuthors-Czech>
 
 =head1 AUTHOR
 

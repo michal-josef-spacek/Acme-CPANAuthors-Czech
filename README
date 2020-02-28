@@ -94,7 +94,7 @@ DEPENDENCIES
     Acme::CPANAuthors.
 
 REPOSITORY
-    <https://github.com/tupinek/Acme-CPANAuthors-Czech>
+    <https://github.com/michal-josef-spacek/Acme-CPANAuthors-Czech>
 
 AUTHOR
     Michal Josef Špaček <mailto:skim@cpan.org>
