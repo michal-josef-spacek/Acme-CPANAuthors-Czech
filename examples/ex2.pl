@@ -49,9 +49,10 @@ p @ids;
 #     [29] "TKR",
 #     [30] "TRIPIE",
 #     [31] "TYNOVSKY",
-#     [32] "VASEKD",
-#     [33] "YENYA",
-#     [34] "ZABA",
-#     [35] "ZEMAN",
-#     [36] "ZOUL"
+#     [32] "VARISD",
+#     [33] "VASEKD",
+#     [34] "YENYA",
+#     [35] "ZABA",
+#     [36] "ZEMAN",
+#     [37] "ZOUL"
 # ]
