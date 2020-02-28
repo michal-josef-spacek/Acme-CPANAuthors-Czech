@@ -62,6 +62,7 @@ Acme::CPANAuthors::Czech - We are Czech CPAN authors.
 =head1 SYNOPSIS
 
  use Acme::CPANAuthors;
+
  my $authors = Acme::CPANAuthors->new('Czech');
  my $url = $authors->avatar_url('TRIPIE');
  my $number = $authors->count;
@@ -167,8 +168,9 @@ L<http://skim.cz>
 
 =head1 LICENSE AND COPYRIGHT
 
- © 2011-2020 Michal Josef Špaček
- BSD 2-Clause License
+© 2011-2020 Michal Josef Špaček
+
+BSD 2-Clause License
 
 =head1 VERSION
 

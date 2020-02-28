@@ -3,6 +3,7 @@ NAME
 
 SYNOPSIS
      use Acme::CPANAuthors;
+
      my $authors = Acme::CPANAuthors->new('Czech');
      my $url = $authors->avatar_url('TRIPIE');
      my $number = $authors->count;
@@ -101,8 +102,9 @@ AUTHOR
     <http://skim.cz>
 
 LICENSE AND COPYRIGHT
-     © 2011-2020 Michal Josef Špaček
-     BSD 2-Clause License
+    © 2011-2020 Michal Josef Špaček
+
+    BSD 2-Clause License
 
 VERSION
     0.23
