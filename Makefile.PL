@@ -23,7 +23,7 @@ resources 'repository' => 'git://github.com/tupinek/Acme-CPANAuthors-Czech';
 test_requires 'Test::NoWarnings' => 0;
 test_requires 'Test::More' => 0;
 tests_recursive;
-version '0.23';
+version '0.24';
 
 # Run.
 WriteAll();
