@@ -1,5 +1,6 @@
 0.27
  - Add PCIMPRICH CPAN account.
+ - Fix use lib '.' in Makefile.PL.
  - Update copyright years.
 
 0.26 2020-03-10T12:52:38+01:00
