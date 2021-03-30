@@ -44,6 +44,7 @@ my %right_ret = (
 	'SMRZ' => 'Otakar Smrž',
 	'STRAKA' => 'Milan Straka',
 	'TKR' => 'Tomáš Kraut',
+	'TPODER' => 'Tomáš Podermański',
 	'TRIPIE' => 'Tomáš Stýblo',
 	'TYNOVSKY' => 'Miroslav Týnovský',
 	'VARISD' => 'Dušan Variš',
