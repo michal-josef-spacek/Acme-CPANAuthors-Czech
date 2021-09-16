@@ -27,7 +27,7 @@ p @ids;
 #     [7]  "HPA",
 #     [8]  "JANPAZ",
 #     [9]  "JANPOM",
-#     [10]  "JENDA",
+#     [10] "JENDA",
 #     [11] "JIRA",
 #     [12] "JSPICAK",
 #     [13] "KLE",
