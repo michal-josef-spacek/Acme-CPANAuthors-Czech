@@ -9,6 +9,7 @@ use Test::NoWarnings;
 # Test.
 my %ret = Acme::CPANAuthors::Czech->authors;
 my %right_ret = (
+	'ATG' => 'Ondřej Vostal',
 	'CHOROBA' => 'E. Choroba',
 	'CONTYK' => 'Petr Šabata',
 	'DANIELR' => 'Roman Daniel',
