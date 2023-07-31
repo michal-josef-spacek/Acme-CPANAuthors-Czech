@@ -8,7 +8,7 @@ use Test::NoWarnings;
 # Test.
 my $obj = Acme::CPANAuthors->new('Czech');
 my @ret = $obj->id;
-my @right_ret = ('ATG', 'CHOROBA', 'CONTYK', 'DANIELR', 'DANPEDER', 'DOUGLISH',
+my @right_ret = ('ATG', 'BULB', 'CHOROBA', 'CONTYK', 'DANIELR', 'DANPEDER', 'DOUGLISH',
 	'HIHIK', 'HOLCAPEK', 'HPA', 'JANPAZ', 'JANPOM', 'JENDA', 'JIRA',
 	'JSPICAK', 'KLE', 'KOLCON', 'MAJLIS', 'MICHALS', 'MILSO', 'MJFO',
 	'PAJAS', 'PAJOUT', 'PASKY', 'PCIMPRICH', 'PEK', 'PETRIS', 'PKUBANEK',
