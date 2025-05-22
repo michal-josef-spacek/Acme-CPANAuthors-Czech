@@ -88,6 +88,8 @@ See documentation for L<Acme::CPANAuthors> for more details.
 
 =head1 EXAMPLE1
 
+=for comment filename=count_of_czech_cpan_authors.pl
+
  use strict;
  use warnings;
 
@@ -106,6 +108,8 @@ See documentation for L<Acme::CPANAuthors> for more details.
  # Count of Czech CPAN authors: 48
 
 =head1 EXAMPLE2
+
+=for comment filename=list_of_czech_cpan_author_nicks.pl
 
  use strict;
  use warnings;
